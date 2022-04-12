@@ -4,7 +4,9 @@
 **Klaus-Wong/Klaus-Wong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
+3 years of working experience in Flutter and libraries set-up and API
+development/Configuration. Capability to handle multi-database environments and
+create mobile applications and admin systems.
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
