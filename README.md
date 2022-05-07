@@ -6,6 +6,9 @@
 <a href="https://www.linkedin.com/in/chi-hung-wong-b9bb31133/">
   <img align="left" alt="Pawan's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
+<a href="https://gitlab.com/wchklaus">
+  <img align="left" alt="Pawan's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gitlab.svg" />
+</a>
 <a href="https://github.com/wchklaus">
   <img align="left" alt="Pawan's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
@@ -32,18 +35,29 @@ create mobile applications and admin systems.
 - 📫 Contact: wch.klaus@gmail.com
 
 **Languages and Tools:**  
-
-<code><img height="32.5" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
-<code><img height="32.5" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
-<code><img height="32.5" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
-<code><img height="35" width= "40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="35" width= "40"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-
-
+<br/>
+<img align="left" alt="Flutter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/flutter.svg" />
+<img align="left" alt="Flutter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/dart.svg" />
+<img align="left" alt="Flutter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/android.svg" />
+<img align="left" alt="Flutter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/ios.svg" />
+<img align="left" alt="Flutter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/python.svg" />
+<img align="left" alt="Flutter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/docker.svg" />
+<img align="left" alt="Flutter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/kubernetes.svg" />
+<img align="left" alt="Flutter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/csharp.svg" />
+<img align="left" alt="Flutter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/git.svg" />
+<img align="left" alt="Flutter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/blender.svg" />
+<img align="left" alt="Flutter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/unity.svg" />
+<img align="left" alt="Flutter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/fastapi.svg" />
+<img align="left" alt="Flutter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/flask.svg" />
+<img align="left" alt="Flutter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/swift.svg" />
+<img align="left" alt="Flutter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/kotlin.svg" />
+<img align="left" alt="Flutter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/nginx.svg" />
+<br/>
+<br/>
 **Database:**
 
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+<img align="left" alt="Flutter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/redis.svg" />
+<img align="left" alt="Flutter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/mysql.svg" />
+<img align="left" alt="Flutter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/mongodb.svg" />
 
 ![Klaus's github stats](https://github-readme-stats.vercel.app/api?username=wchklaus&show_icons=true&hide_border=true)
