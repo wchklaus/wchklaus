@@ -24,14 +24,20 @@
 
 Here are some ideas to get you started:
 3 years of working experience in Flutter and libraries set-up and API
-development/Configuration. Capability to handle multi-database environments and
+development/Configuration. Capability to handle the complicated development environments and
 create mobile applications and admin systems.
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on [Spotlight-Platform](https://www.spotlight-platform.com) and [Spotlight](https://www.spotlightplatform.co)
+- 🌱 I’m currently learning [Kubernetes](https://kubernetes.io/), System Design and Cloud
+- 💬 Ask me about Flutter and Python or any tech-related stuff.
+- 📫 Contact: [@wch.klaus](wch.klaus@gmail.com)
+
+**Languages and Tools:**  
+
+<img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+
+![Klaus's github stats](https://github-readme-stats.vercel.app/api?username=wchklaus&show_icons=true&hide_border=true)
