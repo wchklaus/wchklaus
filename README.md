@@ -24,7 +24,7 @@
 
 Here are some ideas to get you started:
 3 years of working experience in Flutter and libraries set-up and API
-development/Configuration. Capability to handle the complicated development environments and
+development/Configuration. Capability to handle complicated development environments and
 create mobile applications and admin systems.
 - 🔭 I’m currently working on [Spotlight-Platform](https://www.spotlight-platform.com) and [Spotlight](https://www.spotlightplatform.co)
 - 🌱 I’m currently learning [Kubernetes](https://kubernetes.io/), System Design and Cloud
