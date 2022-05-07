@@ -29,7 +29,7 @@ create mobile applications and admin systems.
 - 🔭 I’m currently working on [Spotlight-Platform](https://www.spotlight-platform.com) and [Spotlight](https://www.spotlightplatform.co)
 - 🌱 I’m currently learning [Kubernetes](https://kubernetes.io/), System Design and Cloud
 - 💬 Ask me about Flutter and Python or any tech-related stuff.
-- 📫 Contact: [@wch.klaus](wch.klaus@gmail.com)
+- 📫 Contact: wch.klaus@gmail.com
 
 **Languages and Tools:**  
 
